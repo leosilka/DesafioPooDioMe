@@ -1,0 +1,14 @@
+C:\Users\leona\Documents\Dio\C#\Modulo2\ProjetoPooDioMe\ProjetoPooDioMe\bin\Debug\net6.0\ProjetoPooDioMe.exe
+C:\Users\leona\Documents\Dio\C#\Modulo2\ProjetoPooDioMe\ProjetoPooDioMe\bin\Debug\net6.0\ProjetoPooDioMe.deps.json
+C:\Users\leona\Documents\Dio\C#\Modulo2\ProjetoPooDioMe\ProjetoPooDioMe\bin\Debug\net6.0\ProjetoPooDioMe.runtimeconfig.json
+C:\Users\leona\Documents\Dio\C#\Modulo2\ProjetoPooDioMe\ProjetoPooDioMe\bin\Debug\net6.0\ProjetoPooDioMe.dll
+C:\Users\leona\Documents\Dio\C#\Modulo2\ProjetoPooDioMe\ProjetoPooDioMe\bin\Debug\net6.0\ProjetoPooDioMe.pdb
+C:\Users\leona\Documents\Dio\C#\Modulo2\ProjetoPooDioMe\ProjetoPooDioMe\obj\Debug\net6.0\ProjetoPooDioMe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\Documents\Dio\C#\Modulo2\ProjetoPooDioMe\ProjetoPooDioMe\obj\Debug\net6.0\ProjetoPooDioMe.AssemblyInfoInputs.cache
+C:\Users\leona\Documents\Dio\C#\Modulo2\ProjetoPooDioMe\ProjetoPooDioMe\obj\Debug\net6.0\ProjetoPooDioMe.AssemblyInfo.cs
+C:\Users\leona\Documents\Dio\C#\Modulo2\ProjetoPooDioMe\ProjetoPooDioMe\obj\Debug\net6.0\ProjetoPooDioMe.csproj.CoreCompileInputs.cache
+C:\Users\leona\Documents\Dio\C#\Modulo2\ProjetoPooDioMe\ProjetoPooDioMe\obj\Debug\net6.0\ProjetoPooDioMe.dll
+C:\Users\leona\Documents\Dio\C#\Modulo2\ProjetoPooDioMe\ProjetoPooDioMe\obj\Debug\net6.0\refint\ProjetoPooDioMe.dll
+C:\Users\leona\Documents\Dio\C#\Modulo2\ProjetoPooDioMe\ProjetoPooDioMe\obj\Debug\net6.0\ProjetoPooDioMe.pdb
+C:\Users\leona\Documents\Dio\C#\Modulo2\ProjetoPooDioMe\ProjetoPooDioMe\obj\Debug\net6.0\ProjetoPooDioMe.genruntimeconfig.cache
+C:\Users\leona\Documents\Dio\C#\Modulo2\ProjetoPooDioMe\ProjetoPooDioMe\obj\Debug\net6.0\ref\ProjetoPooDioMe.dll
